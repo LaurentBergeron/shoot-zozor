@@ -1,0 +1,23 @@
+Shoot Zozor
+Auteur: Laurent Bergeron.
+
+/* Version 1.1 */
+- La musique de fond pour le menu a été ajoutée.
+- Le temps entre chaque image varie dorénavant selon la difficulté, car la fonction aléatoire ne fonctionnait pas correctement. L'intervalle de temps varie de 1.25 secondes (impossible) à 2 secondes (easy).
+
+/* Version 1.21 */
+- Fichier OPTIONS.txt ajouté au dossier. Le fichier permet de modifier le mode vidéo (plein écran ou fenêtre).
+- Gestion du son par l'utilisateur.
+- Barres de son ajoutées à l'interface.
+- Possibilité de mettre en pause avec le bouton 'P'.
+- Bouton de son disponible dans le menu pour stopper la musique du menu.
+- Icône ajoutée au fichier .exe
+
+/* Projets à venir */
+- Laisser passer une cible amie mérite 5 points.
+- Gestion de plusieurs cibles à la fois.
+- Une image différente appraraît lorsqu'une cible se fait tirer.
+
+
+© La mascotte Zozor // www.lesiteduzero.com
+

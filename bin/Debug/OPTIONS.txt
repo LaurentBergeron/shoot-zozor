@@ -1,0 +1,10 @@
+1 pour activer.
+0 pour désactiver.
+
+Fullscreen = 0;
+
+Changer les images cibles
+- data/images/...
+- L'image doit être de format .bmp
+- Le transparent de l'image doit être rempli de bleu (0, 0, 255)
+- Le fichier de l'image doit conserver le même nom!
